@@ -1,3 +1,5 @@
+// Public Domain. Free to use.
+//* Copyright (c) [2025] [fani Kiran (hellofani@gmail.com]
 using UnityEngine;
 using UnityEditor;
 using System.Collections.Generic;
